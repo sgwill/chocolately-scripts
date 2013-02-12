@@ -7,8 +7,8 @@ cinst IIS7 -source webpi
 cinst ASPNET -source webpi
 
 cinst 7zip.commandline
-cinst appharborcli
-cinst chocolateygui
+cinst appharborcli.install
+cinst ChocolateyGUI
 cinst curl
 cinst dropbox
 cinst fiddler
@@ -20,7 +20,7 @@ cinst githubforwindows
 cinst heroku-toolbelt
 cinst javaruntime
 cinst jenkins
-cinst launch
+cinst launchy
 cinst linqpad4
 cinst nodejs
 cinst notepadplusplus
