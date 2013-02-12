@@ -29,3 +29,4 @@ cinst paint.net
 cinst pidgin
 cinst sqliteadmin
 cinst winmerge
+cinst android-sdk
